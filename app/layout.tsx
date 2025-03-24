@@ -9,7 +9,7 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "LRN Salgados - Lanches, Salgados, Doces e Bolos",
+  title: "KLN Lanches - Lanches, Salgados, Doces e Bolos",
   description:
     "Deliciosos lanches, salgados, doces e bolos para todas as ocasiões. Faça sua encomenda para festas e eventos.",
     generator: 'v0.dev'
