@@ -59,9 +59,9 @@ export default function ContactPage() {
               <div>
                 <h3 className="font-semibold">Endereço</h3>
                 <address className="not-italic text-muted-foreground">
-                  <p>Rua Exemplo, 123</p>
-                  <p>Cidade - Estado</p>
-                  <p>CEP: 12345-678</p>
+                  <p>Chacara 21, Quandra P</p>
+                  <p>Aguas lindas de Goias - GO</p>
+                  <p>CEP: 72911-515</p>
                 </address>
               </div>
             </div>
@@ -69,8 +69,8 @@ export default function ContactPage() {
             <div className="flex items-start gap-4">
               <Phone className="h-5 w-5 text-primary mt-0.5" />
               <div>
-                <h3 className="font-semibold">Telefone</h3>
-                <p className="text-muted-foreground">(11) 98765-4321</p>
+                <h3 className="font-semibold">WhatsApp</h3>
+                <p className="text-muted-foreground">(61) 99263-9087</p>
               </div>
             </div>
 
@@ -78,7 +78,7 @@ export default function ContactPage() {
               <Mail className="h-5 w-5 text-primary mt-0.5" />
               <div>
                 <h3 className="font-semibold">Email</h3>
-                <p className="text-muted-foreground">contato@lrnsalgados.com.br</p>
+                <p className="text-muted-foreground">klnsalgados@gmail.com.br</p>
               </div>
             </div>
 
@@ -86,7 +86,7 @@ export default function ContactPage() {
               <h3 className="font-semibold mb-2">Horário de Funcionamento</h3>
               <ul className="text-muted-foreground space-y-1">
                 <li>Segunda a Sexta: 8h às 18h</li>
-                <li>Sábado: 8h às 14h</li>
+                <li>Sábado: 8h às 18h</li>
                 <li>Domingo: Fechado</li>
               </ul>
             </div>
