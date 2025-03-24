@@ -39,7 +39,7 @@ const products = {
   doces: [
     {
       id: 3,
-      name: "Brigadeiro Gourmet",
+      name: "Brigadeiro ",
       description: "Brigadeiro gourmet com chocolate belga",
       price: 3.99,
       image: "/placeholder.svg?height=200&width=200",
